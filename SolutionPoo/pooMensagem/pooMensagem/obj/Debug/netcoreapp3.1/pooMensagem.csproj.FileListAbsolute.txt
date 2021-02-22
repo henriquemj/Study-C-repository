@@ -1,0 +1,13 @@
+C:\CSharp\Study-C-repository\SolutionPoo\pooMensagem\pooMensagem\bin\Debug\netcoreapp3.1\pooMensagem.exe
+C:\CSharp\Study-C-repository\SolutionPoo\pooMensagem\pooMensagem\bin\Debug\netcoreapp3.1\pooMensagem.deps.json
+C:\CSharp\Study-C-repository\SolutionPoo\pooMensagem\pooMensagem\bin\Debug\netcoreapp3.1\pooMensagem.runtimeconfig.json
+C:\CSharp\Study-C-repository\SolutionPoo\pooMensagem\pooMensagem\bin\Debug\netcoreapp3.1\pooMensagem.runtimeconfig.dev.json
+C:\CSharp\Study-C-repository\SolutionPoo\pooMensagem\pooMensagem\bin\Debug\netcoreapp3.1\pooMensagem.dll
+C:\CSharp\Study-C-repository\SolutionPoo\pooMensagem\pooMensagem\bin\Debug\netcoreapp3.1\pooMensagem.pdb
+C:\CSharp\Study-C-repository\SolutionPoo\pooMensagem\pooMensagem\obj\Debug\netcoreapp3.1\pooMensagem.csprojAssemblyReference.cache
+C:\CSharp\Study-C-repository\SolutionPoo\pooMensagem\pooMensagem\obj\Debug\netcoreapp3.1\pooMensagem.AssemblyInfoInputs.cache
+C:\CSharp\Study-C-repository\SolutionPoo\pooMensagem\pooMensagem\obj\Debug\netcoreapp3.1\pooMensagem.AssemblyInfo.cs
+C:\CSharp\Study-C-repository\SolutionPoo\pooMensagem\pooMensagem\obj\Debug\netcoreapp3.1\pooMensagem.csproj.CoreCompileInputs.cache
+C:\CSharp\Study-C-repository\SolutionPoo\pooMensagem\pooMensagem\obj\Debug\netcoreapp3.1\pooMensagem.dll
+C:\CSharp\Study-C-repository\SolutionPoo\pooMensagem\pooMensagem\obj\Debug\netcoreapp3.1\pooMensagem.pdb
+C:\CSharp\Study-C-repository\SolutionPoo\pooMensagem\pooMensagem\obj\Debug\netcoreapp3.1\pooMensagem.genruntimeconfig.cache
