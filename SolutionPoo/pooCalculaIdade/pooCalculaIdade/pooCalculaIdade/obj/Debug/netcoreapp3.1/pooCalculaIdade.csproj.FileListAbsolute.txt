@@ -1,0 +1,13 @@
+C:\CSharp\Study-C-repository\SolutionPoo\pooCalculaIdade\pooCalculaIdade\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.exe
+C:\CSharp\Study-C-repository\SolutionPoo\pooCalculaIdade\pooCalculaIdade\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.deps.json
+C:\CSharp\Study-C-repository\SolutionPoo\pooCalculaIdade\pooCalculaIdade\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.runtimeconfig.json
+C:\CSharp\Study-C-repository\SolutionPoo\pooCalculaIdade\pooCalculaIdade\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.runtimeconfig.dev.json
+C:\CSharp\Study-C-repository\SolutionPoo\pooCalculaIdade\pooCalculaIdade\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.dll
+C:\CSharp\Study-C-repository\SolutionPoo\pooCalculaIdade\pooCalculaIdade\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.pdb
+C:\CSharp\Study-C-repository\SolutionPoo\pooCalculaIdade\pooCalculaIdade\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.csprojAssemblyReference.cache
+C:\CSharp\Study-C-repository\SolutionPoo\pooCalculaIdade\pooCalculaIdade\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.AssemblyInfoInputs.cache
+C:\CSharp\Study-C-repository\SolutionPoo\pooCalculaIdade\pooCalculaIdade\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.AssemblyInfo.cs
+C:\CSharp\Study-C-repository\SolutionPoo\pooCalculaIdade\pooCalculaIdade\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.csproj.CoreCompileInputs.cache
+C:\CSharp\Study-C-repository\SolutionPoo\pooCalculaIdade\pooCalculaIdade\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.dll
+C:\CSharp\Study-C-repository\SolutionPoo\pooCalculaIdade\pooCalculaIdade\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.pdb
+C:\CSharp\Study-C-repository\SolutionPoo\pooCalculaIdade\pooCalculaIdade\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.genruntimeconfig.cache
