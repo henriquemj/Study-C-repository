@@ -1,0 +1,7 @@
+C:\CSharp\Study-C-repository\SolutionPoo\pooMaiorIdade\pooMaiorIdade\obj\Debug\pooMaiorIdade.csprojAssemblyReference.cache
+C:\CSharp\Study-C-repository\SolutionPoo\pooMaiorIdade\pooMaiorIdade\obj\Debug\pooMaiorIdade.csproj.CoreCompileInputs.cache
+C:\CSharp\Study-C-repository\SolutionPoo\pooMaiorIdade\pooMaiorIdade\bin\Debug\pooMaiorIdade.exe.config
+C:\CSharp\Study-C-repository\SolutionPoo\pooMaiorIdade\pooMaiorIdade\bin\Debug\pooMaiorIdade.exe
+C:\CSharp\Study-C-repository\SolutionPoo\pooMaiorIdade\pooMaiorIdade\bin\Debug\pooMaiorIdade.pdb
+C:\CSharp\Study-C-repository\SolutionPoo\pooMaiorIdade\pooMaiorIdade\obj\Debug\pooMaiorIdade.exe
+C:\CSharp\Study-C-repository\SolutionPoo\pooMaiorIdade\pooMaiorIdade\obj\Debug\pooMaiorIdade.pdb
