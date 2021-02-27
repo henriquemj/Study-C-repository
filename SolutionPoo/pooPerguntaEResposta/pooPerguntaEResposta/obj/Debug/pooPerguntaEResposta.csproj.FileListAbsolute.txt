@@ -1,0 +1,7 @@
+C:\CSharp\Study-C-repository\SolutionPoo\pooPerguntaEResposta\pooPerguntaEResposta\bin\Debug\pooPerguntaEResposta.exe.config
+C:\CSharp\Study-C-repository\SolutionPoo\pooPerguntaEResposta\pooPerguntaEResposta\bin\Debug\pooPerguntaEResposta.exe
+C:\CSharp\Study-C-repository\SolutionPoo\pooPerguntaEResposta\pooPerguntaEResposta\bin\Debug\pooPerguntaEResposta.pdb
+C:\CSharp\Study-C-repository\SolutionPoo\pooPerguntaEResposta\pooPerguntaEResposta\obj\Debug\pooPerguntaEResposta.csproj.CoreCompileInputs.cache
+C:\CSharp\Study-C-repository\SolutionPoo\pooPerguntaEResposta\pooPerguntaEResposta\obj\Debug\pooPerguntaEResposta.exe
+C:\CSharp\Study-C-repository\SolutionPoo\pooPerguntaEResposta\pooPerguntaEResposta\obj\Debug\pooPerguntaEResposta.pdb
+C:\CSharp\Study-C-repository\SolutionPoo\pooPerguntaEResposta\pooPerguntaEResposta\obj\Debug\pooPerguntaEResposta.csprojAssemblyReference.cache
