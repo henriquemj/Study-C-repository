@@ -13,9 +13,9 @@ namespace pooPokemonApp
             this.InicializaLista();
         }
 
-        private List<Pokemon> pokemons;
+        private List<PokemonPlus> pokemons;
 
-        public List<Pokemon> Pokemons
+        public List<PokemonPlus> Pokemons
         {
             get { return pokemons; }
         }
@@ -23,20 +23,20 @@ namespace pooPokemonApp
         private void InicializaLista()
         {
             // Instanciar a lista
-            this.pokemons = new List<Pokemon>();
-            Pokemon p = new Pokemon("Bulbassaur", "Pokémon do tipo Planta Venenoso");
+            this.pokemons = new List<PokemonPlus>();
+            PokemonPlus p = new PokemonPlus("Bulbassaur", "Pokémon do tipo Planta Venenoso", 10);
             this.pokemons.Add(p);
-            p = new Pokemon("Mew", "Psiquico Lendário");
+            p = new PokemonPlus("Mew", "Psiquico Lendário", 80);
             this.pokemons.Add(p);
-            p = new Pokemon("Metwo", "Psiquico Lendário");
+            p = new PokemonPlus("Mewtwo", "Psiquico Lendário", 70);
             this.pokemons.Add(p);
-            p = new Pokemon("Flygon", "Pokémon Inseto Dragão");
+            p = new PokemonPlus("Flygon", "Pokémon Inseto Dragão",45);
             this.pokemons.Add(p);
-            p = new Pokemon("Metagross", "Pokémon Metal Psíquico");
+            p = new PokemonPlus("Metagross", "Pokémon Metal Psíquico", 50);
             this.pokemons.Add(p);
-            p = new Pokemon("Muk", "Pokémon Venenoso");
+            p = new PokemonPlus("Muk", "Pokémon Venenoso", 35);
             this.pokemons.Add(p);
-            p = new Pokemon("Giratina", "Pokémon Lendário");
+            p = new PokemonPlus("Giratina", "Pokémon Lendário",60);
             this.pokemons.Add(p);
         }
 
@@ -45,6 +45,7 @@ namespace pooPokemonApp
         {
             for (int i = 0; i < this.Pokemons.Count; i++)
             {
+                Console.WriteLine("Código do pokémon: " +i);
                 this.Pokemons[i].ExibirDadosPokemon();
                 //O comando de baixo faz a mesma função que o de cima.
                 //Pokemon p = this.Pokemons[i];
