@@ -1,0 +1,7 @@
+C:\CSharp\Study-C-repository\SolutionPoo\pooZoologico\pooZoologico\obj\Debug\pooZoologico.csprojAssemblyReference.cache
+C:\CSharp\Study-C-repository\SolutionPoo\pooZoologico\pooZoologico\obj\Debug\pooZoologico.csproj.CoreCompileInputs.cache
+C:\CSharp\Study-C-repository\SolutionPoo\pooZoologico\pooZoologico\bin\Debug\pooZoologico.exe.config
+C:\CSharp\Study-C-repository\SolutionPoo\pooZoologico\pooZoologico\bin\Debug\pooZoologico.exe
+C:\CSharp\Study-C-repository\SolutionPoo\pooZoologico\pooZoologico\bin\Debug\pooZoologico.pdb
+C:\CSharp\Study-C-repository\SolutionPoo\pooZoologico\pooZoologico\obj\Debug\pooZoologico.exe
+C:\CSharp\Study-C-repository\SolutionPoo\pooZoologico\pooZoologico\obj\Debug\pooZoologico.pdb
