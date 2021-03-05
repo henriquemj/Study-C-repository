@@ -1,0 +1,7 @@
+C:\CSharp\Study-C-repository\SolutionPoo\NewBanco\NewBanco\obj\Debug\NewBanco.csprojAssemblyReference.cache
+C:\CSharp\Study-C-repository\SolutionPoo\NewBanco\NewBanco\obj\Debug\NewBanco.csproj.CoreCompileInputs.cache
+C:\CSharp\Study-C-repository\SolutionPoo\NewBanco\NewBanco\bin\Debug\NewBanco.exe.config
+C:\CSharp\Study-C-repository\SolutionPoo\NewBanco\NewBanco\bin\Debug\NewBanco.exe
+C:\CSharp\Study-C-repository\SolutionPoo\NewBanco\NewBanco\bin\Debug\NewBanco.pdb
+C:\CSharp\Study-C-repository\SolutionPoo\NewBanco\NewBanco\obj\Debug\NewBanco.exe
+C:\CSharp\Study-C-repository\SolutionPoo\NewBanco\NewBanco\obj\Debug\NewBanco.pdb
