@@ -25,6 +25,11 @@ namespace NewBanco
             luiza.CPF = "854.947.113-45";
             luiza.Salario = 5000;
 
+            Funcionario luizaTeste = luiza;
+
+            Console.WriteLine("Bonificação de uma referencia de Diretor: " + luizaTeste.GetBonificacao());
+            Console.WriteLine("Bonificação de uma referencia de Funcionario: " + luizaTeste.GetBonificacao());
+
             gerenciador.Registrar(luiza);
 
             Console.WriteLine(tarles.Nome);
