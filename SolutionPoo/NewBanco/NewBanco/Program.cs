@@ -28,7 +28,7 @@ namespace NewBanco
             Funcionario luizaTeste = luiza;
 
             Console.WriteLine("Bonificação de uma referencia de Diretor: " + luizaTeste.GetBonificacao());
-            Console.WriteLine("Bonificação de uma referencia de Funcionario: " + luizaTeste.GetBonificacao());
+            Console.WriteLine("Bonificação de uma referencia de Funcionário: " + luizaTeste.GetBonificacao());
 
             gerenciador.Registrar(luiza);
 

@@ -14,7 +14,6 @@ namespace NewBanco
         {
             _totalBonificacao += funcionario.GetBonificacao();
         }
-
         public double GetTotalBonificacao()
         {
             return _totalBonificacao;
