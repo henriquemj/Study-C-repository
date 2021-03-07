@@ -18,12 +18,15 @@ namespace NewBanco
             tarles.CPF = "631.789.274-03";
             tarles.Salario = 200;
 
+            Console.WriteLine(Funcionario.TotalDeFuncionarios);
+
             gerenciador.Registrar(tarles);
 
-            Diretor luiza = new Diretor();
+            Diretor luiza = new Diretor("854.947.113-45");
             luiza.Nome = "Luiza";
-            luiza.CPF = "854.947.113-45";
             luiza.Salario = 5000;
+
+            Console.WriteLine(Funcionario.TotalDeFuncionarios);
 
             Funcionario luizaTeste = luiza;
 
