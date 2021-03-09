@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using NewBanco.Funcionarios;
+using NewBanco.Sistemas;
 
 namespace NewBanco
 {
@@ -11,40 +12,58 @@ namespace NewBanco
     {
         static void Main(string[] args)
         {
-            GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
+            //CalcularBonificacao();
 
-            Funcionario tarles = new Funcionario();
-            tarles.Nome = "Tarles";
-            tarles.CPF = "631.789.274-03";
-            tarles.Salario = 200;
 
-            Console.WriteLine(Funcionario.TotalDeFuncionarios);
-
-            gerenciador.Registrar(tarles);
-
-            Diretor luiza = new Diretor("854.947.113-45");
-            luiza.Nome = "Luiza";
-            luiza.Salario = 5000;
-
-            Console.WriteLine(Funcionario.TotalDeFuncionarios);
-
-            Funcionario luizaTeste = luiza;
-
-            Console.WriteLine("Bonificação de uma referencia de Diretor: " + luizaTeste.GetBonificacao());
-            Console.WriteLine("Bonificação de uma referencia de Funcionário: " + luizaTeste.GetBonificacao());
-
-            gerenciador.Registrar(luiza);
-
-            Console.WriteLine(tarles.Nome);
-            Console.WriteLine(tarles.GetBonificacao());
-
-            Console.WriteLine(luiza.Nome);
-            Console.WriteLine(luiza.GetBonificacao());
-
-            Console.WriteLine("Total de bonificações: " + gerenciador.GetTotalBonificacao());
-
+            UsarSistema();
             Console.ReadLine();
+        }
 
+        public static void UsarSistema()
+        {
+            SistemaInterno sistemaInterno = new SistemaInterno();
+
+            Diretor luiza = new Diretor("123.674.911-23");
+            luiza.Nome = "Luiza";
+            luiza.Senha = "123";
+
+            GerenteDeConta camila = new GerenteDeConta("214.528.457-12");
+            camila.Nome = "Camila";
+            camila.Senha = "abc";
+
+            Funcionario pedro = pedro = new Designer("874.658.987-98");
+            pedro.Nome = "Pedro";
+
+            sistemaInterno.Logar(pedro, "test");
+            sistemaInterno.Logar(luiza, "123");
+            sistemaInterno.Logar(camila, "abc");
+        }
+
+        public static void CalcularBonificacao()
+        {
+            GerenciadorBonificacao gerenciadorBonificacao = new GerenciadorBonificacao();
+
+            Funcionario pedro = new Designer("874.658.987-98");
+            pedro.Nome = "Pedro";
+
+            Funcionario luiza = new Diretor("123.674.911-23");
+            luiza.Nome = "Luiza";
+
+            Funcionario igor = new Auxiliar("857.658.745-45");
+            igor.Nome = "Igor";
+
+            Funcionario camila = new GerenteDeConta("214.528.457-12");
+            camila.Nome = "Camila";
+
+            Funcionario henrique = new Desenvolvedor("478.521.474-98");
+            henrique.Nome = "Henrique";
+
+            gerenciadorBonificacao.Registrar(pedro);
+            gerenciadorBonificacao.Registrar(luiza);
+            gerenciadorBonificacao.Registrar(igor);
+            gerenciadorBonificacao.Registrar(camila);
+
+            Console.WriteLine("Total de bonificações do mês " + gerenciadorBonificacao.GetTotalBonificacao());
         }
     }
 }
