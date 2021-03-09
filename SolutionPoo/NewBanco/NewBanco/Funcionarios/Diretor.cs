@@ -6,18 +6,12 @@ using System.Threading.Tasks;
 
 namespace NewBanco.Funcionarios
 {
-    public class Diretor : Funcionario
+    public class Diretor : Autenticavel
     {
-        public string Senha { get; internal set; }
 
         public Diretor(string cpf) : base(5000, cpf)
         {
             Console.WriteLine("Criando DIRETOR");
-        }
-
-        public bool Autenticar(string senha)
-        {
-            return Senha == senha;
         }
 
         public override void AumentarSalario()

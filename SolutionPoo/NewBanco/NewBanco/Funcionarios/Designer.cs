@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NewBanco.Funcionarios
 {
-    public class Designer: Funcionario
+    public class Designer: Autenticavel
     {
         public Designer(string cpf) : base(3000, cpf)
         {

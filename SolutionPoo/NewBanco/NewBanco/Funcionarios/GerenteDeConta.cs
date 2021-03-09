@@ -6,17 +6,10 @@ using System.Threading.Tasks;
 
 namespace NewBanco.Funcionarios
 {
-    public class GerenteDeConta : Funcionario
+    public class GerenteDeConta : Autenticavel
     {
         public GerenteDeConta(string cpf) : base (4000, cpf)
         {
-        }
-
-        public string Senha { get; set; }
-
-        public bool Autenticar(string senha)
-        {
-            return Senha == senha;
         }
 
         public override void AumentarSalario()

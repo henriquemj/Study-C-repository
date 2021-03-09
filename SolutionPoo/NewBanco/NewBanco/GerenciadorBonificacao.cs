@@ -10,7 +10,7 @@ namespace NewBanco
     public class GerenciadorBonificacao
     {
         public double _totalBonificacao;
-        public void Registrar (Funcionario funcionario)
+        public void Registrar (Autenticavel funcionario)
         {
             _totalBonificacao += funcionario.GetBonificacao();
         }
